@@ -6,6 +6,16 @@
 
 - Data are processed by machine learning tools
 
+# How to start
+
+- Run "Load_graph.ipynb"
+  
+  - This is a main script of machine learning
+
+- "Parse_****.ipynb" are measurement data processing modules
+  
+  - Whenever the database is updated, they should be run
+
 # Requirements
 
 - Check for env. yml
@@ -22,7 +32,7 @@
 
 # History
 
-- version 2022.1.18: initial version
+- version 2022.1.**: initial version
 
 # Author
 
