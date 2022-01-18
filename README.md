@@ -19,6 +19,20 @@
 # Requirements
 
 - Check for env. yml
+  
+  - Includes some unnecessary modules (to be fixed)
+
+- Main modules
+  
+  - netrowkX (e.g., 2.5)
+  
+  - transformers (e.g., 2.1.1) and BERT model (PyTorch or TensorFlow)
+  
+  - pandas, scikit-learn, matplotlib, etc.
+  
+  - boruta_py (e.g., 0.3)
+  
+  - pyvis (e.g., 0.1.9)
 
 - This database is processed by "FlowMater", which can treat graph data.
   
