@@ -1,0 +1,6 @@
+[
+{"cell_id":"3","thickness":174,"sigma":6.53E-8,
+ "O2":4.95,"dew":-79.1,"date":"2021/8/30", "O2_":2.52,"dew_":-78.9,"date_":"2021/9/1",
+ "ppo": 200,"acceptor_amount":274,"h1":200,"t1": 40, "h2": 300, "t2": 80,
+ "yield":274.3,"ct_amount":262,"salt_amount": 264}
+]

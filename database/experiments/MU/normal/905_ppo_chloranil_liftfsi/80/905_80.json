@@ -1,0 +1,14 @@
+[
+{"cell_id":"3","thickness":166,"sigma":0.00010800000000000001,
+ "O2":1.3,"dew":-80.8,"date":"2021/9/5", "O2_":1.3,"dew_":-80.8,"date_":"2021/9/5",
+ "ppo": 202,"acceptor_amount":274,"h1":210,"t1": 20, "h2": 300, "t2": 45,
+ "yield":287.7,"ct_amount":267.8,"salt_amount": 68},
+{"cell_id":"4","thickness":160,"sigma":9.94e-05,
+ "O2":1.3,"dew":-80.8,"date":"2021/9/5", "O2_":1.3,"dew_":-80.8,"date_":"2021/9/5",
+ "ppo": 202,"acceptor_amount":274,"h1":210,"t1": 20, "h2": 300, "t2": 45,
+ "yield":287.7,"ct_amount":267.8,"salt_amount": 68},
+{"cell_id":"10","thickness":145,"sigma":0.00021700000000000002,
+ "O2":1.3,"dew":-80.8,"date":"2021/9/5", "O2_":1.3,"dew_":-80.8,"date_":"2021/9/5",
+ "ppo": 202,"acceptor_amount":274,"h1":210,"t1": 20, "h2": 300, "t2": 45,
+ "yield":287.7,"ct_amount":267.8,"salt_amount": 68}
+]

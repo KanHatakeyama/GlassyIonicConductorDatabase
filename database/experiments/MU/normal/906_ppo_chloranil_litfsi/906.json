@@ -1,0 +1,22 @@
+[
+{"cell_id":"1","thickness":120,"sigma":6.26e-05,
+ "O2":5.7,"dew":-78.6,"date":"2021/9/6", "O2_":5.7,"dew_":-78.6,"date_":"2021/9/6",
+ "ppo": 202,"acceptor_amount":105,"h1":200,"t1": 30, "h2": 300, "t2": 60,
+ "yield":243,"ct_amount":220.3,"salt_amount": 23.8},
+{"cell_id":"2","thickness":135,"sigma":0.000101708,
+ "O2":5.7,"dew":-78.6,"date":"2021/9/6", "O2_":5.7,"dew_":-78.6,"date_":"2021/9/6",
+ "ppo": 202,"acceptor_amount":105,"h1":200,"t1": 30, "h2": 300, "t2": 60,
+ "yield":243,"ct_amount":220.3,"salt_amount": 23.8},
+{"cell_id":"3","thickness":140,"sigma":9.650000000000001e-08,
+ "O2":5.7,"dew":-78.6,"date":"2021/9/6", "O2_":5.7,"dew_":-78.6,"date_":"2021/9/6",
+ "ppo": 202,"acceptor_amount":105,"h1":200,"t1": 30, "h2": 300, "t2": 60,
+ "yield":243,"ct_amount":220.3,"salt_amount": 23.8},
+{"cell_id":"4","thickness":102,"sigma":1.77e-05,
+ "O2":5.7,"dew":-78.6,"date":"2021/9/6", "O2_":5.7,"dew_":-78.6,"date_":"2021/9/6",
+ "ppo": 202,"acceptor_amount":105,"h1":200,"t1": 30, "h2": 300, "t2": 60,
+ "yield":243,"ct_amount":220.3,"salt_amount": 23.8},
+{"cell_id":"10","thickness":114,"sigma":4.26e-05,
+ "O2":5.7,"dew":-78.6,"date":"2021/9/6", "O2_":5.7,"dew_":-78.6,"date_":"2021/9/6",
+ "ppo": 202,"acceptor_amount":105,"h1":200,"t1": 30, "h2": 300, "t2": 60,
+ "yield":243,"ct_amount":220.3,"salt_amount": 23.8}
+]
