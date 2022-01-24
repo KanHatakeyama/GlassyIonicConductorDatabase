@@ -1,0 +1,129 @@
+[
+{"keyword":"PMPS(S-81)",
+  "compound name":"PMPS",
+  "SMILES":"CC1=C(S[*])C(C)=CC([*])=C1",
+  "MW":136.03,
+  "Mw":7000,
+  "Mn":18000
+  },
+{"keyword":"PPO(Aldrich1)",
+  "compound name":"PPO",
+  "MW":120.15,
+  "SMILES": "[*]C1=CC(C)=C(O[*])C(C)=C1",
+  "production data":"Aldrich: 181781"
+  },
+{"keyword":"Chloranil(Aldrich1)",
+  "compound name":"Chloranil",
+  "MW":245.86,
+  "SMILES": "O=C(C(Cl)=C1Cl)C(Cl)=C(Cl)C1=O",
+  "production data":"Aldrich: BCCB8938"
+  },
+{"keyword":"Bromanil_1",
+  "compound name":"Bromanil",
+  "MW":423.68,
+  "SMILES": "O=C(C(Br)=C(C1=O)Br)C(Br)=C1Br",
+  "production data":"TCI:T0617"
+  },
+ {"keyword":"DDQ_1",
+  "compound name":"DDQ",
+  "MW":227.0,
+  "SMILES": "O=C(C(Cl)=C(C1=O)Cl)C(C#N)=C1C#N",
+  "production data":"TCI:D1070"
+  },
+{"keyword":"LiFTFSI(FUJIFILM1)",
+  "compound name":"LiFTFSI",
+  "MW":237.07,
+  "SMILES": "O=S([N-]S(=O)(C(F)(F)F)=O)(F)=O.[Li+]",
+  "production data":"FUJIFILM: DLP0140"
+  },
+{"keyword":"LiTFSI(Kanto1)",
+  "compound name":"LiTFSI",
+  "MW":287.08,
+  "SMILES": "O=S([N-]S(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.[Li+]",
+  "production data":"Kanto: 111Y2184"
+  },
+  
+ {"keyword":"LiFSI(TCI1)",
+  "compound name":"LiFSI",
+  "MW":187.06,
+  "SMILES": "O=S([N-]S(=O)(F)=O)(F)=O.[Li+]",
+  "production data":"TCI: L0281 (A7FVH-CJ)"
+  },
+ {"keyword":"LiBF4(TCI1)",
+  "compound name":"LiBF4",
+  "MW":93.74,
+  "SMILES": "F[B-](F)(F)F.[Li+]",
+  "production data":"TCI: L0133 (WE3CN-PA)"
+  },
+{"keyword":"Benzoquinone(TCI1)",
+  "compound name":"Benzoquinone",
+  "MW":108.1,
+  "SMILES": "O=C(C=C1)C=CC1=O",
+  "production data":"TCI: B0089 (G437E-PI)"
+  },
+ {"keyword":"LiFePO4_electrode1(Piotrek)",
+  "compound name":"LiFePO4",
+  "areal capacity":"1.5 mAh/cm2"
+  },
+ {"keyword":"Li4Ti5O12_electrode1(Piotrek)",
+  "compound name":"Li4Ti5O12",
+  "areal capacity":"1.5 mAh/cm2"
+  },
+  {"keyword":"d-DMSO(Acros1)",
+  "compound name":"d-DMSO",
+  "MW":84.17,
+  "SMILES": "O=S(C([2H])([2H])[2H])C([2H])([2H])[2H]",
+  "production data":"ACROS lot A0434237",
+  "deuterium ratio": "99.9%"
+  },
+{"keyword":"solid_li_nmr",
+  "MAS rate":"8 kHz",
+  "offset": "2.75 ppm"
+  },
+ {"keyword":"solid_C_MAS_nmr",
+  "MAS rate":"8 kHz",
+  "offset": "5.5 ppm"
+  },
+ {"keyword":"solid_Li_MAS_nmr",
+  "MAS rate":"8 kHz",
+  "offset": "2.75 ppm"
+  },
+  {"keyword":"solid_Li_MAS_nmr_T1",
+  "MAS rate":"8 kHz",
+  "offset": "2.75 ppm"
+  },
+ {"keyword":"solid_Li_static_nmr",
+  "MAS rate":"0 kHz",
+  "offset": "2.75 ppm"
+  },
+{"keyword":"solid_F_MAS_nmr",
+  "MAS rate":"8 kHz",
+  "offset": "5.26 ppm"
+  },
+{"keyword":"solid_F_MAS_nmr_T1",
+  "MAS rate":"8 kHz",
+  "offset": "5.26 ppm"
+  },
+{"keyword":"solid_F_static_nmr",
+  "MAS rate":"0 kHz",
+  "offset": "5.26 ppm"
+  },
+{"keyword":"XRD1",
+  "equipment": "SmartLab",
+  "method":"intensive beam"
+  },
+{"keyword":"XRD2",
+  "equipment": "SmartLab",
+  "method":"parallel beam"
+  },
+{"keyword":"measureEIS",
+  "equipment": "ZAHNER CIMPS system",
+  "DC voltage":"open circuit"
+  },
+ {"keyword":"measureDSC",
+  "equipment": "Q200 (TA Instruments)"
+  },
+{"keyword":"microscope_particle_observation",
+  "um_to_pixel":37.8
+}
+]

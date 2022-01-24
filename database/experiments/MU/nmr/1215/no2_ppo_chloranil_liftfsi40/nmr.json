@@ -1,0 +1,7 @@
+[
+{"nmr_protocol":"solid_C_MAS_nmr","data_path":"C/processed.asc","temp":25},
+{"nmr_protocol":"solid_F_MAS_nmr","data_path":"F/mas/processed.asc","temp":25},
+{"nmr_protocol":"solid_F_static_nmr","data_path":"F/static/processed.asc","temp":25},
+{"nmr_protocol":"solid_Li_MAS_nmr","data_path":"Li/mas/processed.asc","temp":25},
+{"nmr_protocol":"solid_Li_static_nmr","data_path":"Li/static/processed.asc","temp":25}
+]

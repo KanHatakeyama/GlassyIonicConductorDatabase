@@ -1,0 +1,8 @@
+[
+{"battery_protocol":"cyclic_voltammetry","data_path":"data/cv.txt","rate":"0.5 mV/s"},
+{"battery_protocol":"chronopotentiometry","data_path":"data/1.txt","rate":"1 C"},
+{"battery_protocol":"chronopotentiometry","data_path":"data/05.txt","rate":"0.5 C"},
+{"battery_protocol":"chronopotentiometry","data_path":"data/02.txt","rate":"0.2 C"},
+{"battery_protocol":"chronopotentiometry","data_path":"data/01.txt","rate":"0.1 C"},
+{"battery_protocol":"chronopotentiometry","data_path":"data/005.txt","rate":"0.05 C"}
+]

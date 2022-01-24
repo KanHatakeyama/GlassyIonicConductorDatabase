@@ -1,0 +1,12 @@
+[
+{"nmr_protocol":"solid_F_MAS_nmr_T1","data_path":"mas_f/NO2_19F_T1_25C-1","temp":25,"T1": "0.461 s"},
+{"nmr_protocol":"solid_F_MAS_nmr_T1","data_path":"mas_f/NO2_19F_T1_40C-1.jdf","temp":40,"T1": "0.4808 s"},
+{"nmr_protocol":"solid_F_MAS_nmr_T1","data_path":"mas_f/NO2_19F_T1_60C-1.jdf","temp":60,"T1": "0.48166 s"},
+{"nmr_protocol":"solid_F_MAS_nmr_T1","data_path":"mas_f/NO2_19F_T1_80C-1.jdf","temp":80,"T1": "0.51973 s"},
+{"nmr_protocol":"solid_F_MAS_nmr_T1","data_path":"mas_f/NO2_19F_T1_100C-1.jdf","temp":100,"T1": "0.541 s"},
+{"nmr_protocol":"solid_Li_MAS_nmr_T1","data_path":"mas_li/NO2_7Li_T1_25C-1.jdf","temp":25,"T1": "0.21905 s"},
+{"nmr_protocol":"solid_Li_MAS_nmr_T1","data_path":"mas_li/NO2_7Li_T1_40C-1.jdf","temp":40,"T1": "0.2335 s"},
+{"nmr_protocol":"solid_Li_MAS_nmr_T1","data_path":"mas_li/NO2_7Li_T1_60C-1.jdf","temp":60,"T1": "0.27209 s"},
+{"nmr_protocol":"solid_Li_MAS_nmr_T1","data_path":"mas_li/NO2_7Li_T1_80C-1.jdf","temp":80,"T1": "0.27982 s"},
+{"nmr_protocol":"solid_Li_MAS_nmr_T1","data_path":"mas_li/NO2_7Li_T1_100C-1.jdf","temp":100,"T1": "0.31004 s"}
+]

@@ -1,0 +1,8 @@
+[
+{"nmr_protocol":"solid_Li_MAS_nmr","data_path":"Li/mas/data.asc","temp":25},
+{"nmr_protocol":"solid_Li_static_nmr","data_path":"Li/static/25.asc","temp":25},
+{"nmr_protocol":"solid_Li_static_nmr","data_path":"Li/static/40.asc","temp":40},
+{"nmr_protocol":"solid_Li_static_nmr","data_path":"Li/static/60.asc","temp":60},
+{"nmr_protocol":"solid_Li_static_nmr","data_path":"Li/static/80.asc","temp":80},
+{"nmr_protocol":"solid_Li_static_nmr","data_path":"Li/static/100.asc","temp":100}
+]

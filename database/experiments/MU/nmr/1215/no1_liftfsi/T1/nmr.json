@@ -1,0 +1,4 @@
+[
+{"nmr_protocol":"solid_F_MAS_nmr_T1","data_path":"mas_f/1.jdf","temp":25,"T1": "0.6 s"},
+{"nmr_protocol":"solid_Li_MAS_nmr_T1","data_path":"mas_li/1.jdf","temp":25,"T1": "170 s"}
+]

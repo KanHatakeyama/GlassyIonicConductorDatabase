@@ -1,0 +1,4 @@
+[
+{"nmr_protocol":"solid_C_MAS_nmr","data_path":"C_MAS/processed.asc","temp":25},
+{"nmr_protocol":"solid_Li_MAS_nmr","data_path":"Li_MAS/processed.asc","temp":25}
+]

@@ -1,0 +1,11 @@
+[
+{"temp": 25,"cell_id":"10","thickness":211,"sigma":1.63E-5},
+{"temp": 40,"cell_id":"10","thickness":211,"sigma":2.33E-5},
+{"temp": 50,"cell_id":"10","thickness":211,"sigma":3.04E-5},
+{"temp": 60,"cell_id":"10","thickness":211,"sigma":3.70E-5},
+{"temp": 70,"cell_id":"10","thickness":211,"sigma":3.93E-5},
+{"temp": 80,"cell_id":"10","thickness":211,"sigma":3.95E-5},
+{"temp": 90,"cell_id":"10","thickness":211,"sigma":3.87E-5},
+{"temp": 100,"cell_id":"10","thickness":211,"sigma":3.70E-5},
+{"temp": 110,"cell_id":"10","thickness":211,"sigma":3.73E-5}
+]
