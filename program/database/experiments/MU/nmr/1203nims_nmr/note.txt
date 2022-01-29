@@ -1,0 +1,1 @@
+this folder is not used for machine learning because NMR equipment and configuration were different from other nmr measurements. see the article for details
