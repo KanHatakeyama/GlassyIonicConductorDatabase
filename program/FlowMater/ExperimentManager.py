@@ -84,7 +84,7 @@ class ExperimentManager:
         experiment_dict = {}
         count = 0
         for path in glob.glob(self.base_path, recursive=True):
-            if path.find(".graphml") > 0:
+            if path.find(".graphml") > 0 and path.find("no_ML")==-1:
                 g = load_graphml(path)
                 graph_dict = parse_graph(g)
                 graph_dict["path"] = path

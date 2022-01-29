@@ -1,300 +1,300 @@
 ,Original,Grouped
-0,"label: Heat, type: procedure, temperature: 280 oC, time: 35 min, <-->Cool--Stirr--Stirr",temperature-Leave-rt-Heat-30min|Stirr-Seal-Carry-out-from
-1,"label: Leave, type: procedure, temperature: rt, time: 20 hours, <-->Carry out from glove box--Seal--Seal",temperature-Leave-rt-Heat-30min|Stirr-Seal-Carry-out-from
-2,"label: Heat, type: procedure, temperature: 250 oC, time: 30 min, <-->Cool--Stirr--Stirr",temperature-Leave-rt-Heat-30min|Stirr-Seal-Carry-out-from
-3,"label: Heat, type: procedure, temperature: 280 oC, time: 30 min, <-->Cool--Stirr--Stirr",temperature-Leave-rt-Heat-30min|Stirr-Seal-Carry-out-from
-4,"label: Leave, type: procedure, temperature: rt, time: 96 hours, <-->Carry out from glove box--Seal--Seal",temperature-Leave-rt-Heat-30min|Stirr-Seal-Carry-out-from
-5,"label: Leave, type: procedure, temperature: rt, time: 72 hours, <-->Carry out from glove box--Seal--Seal",temperature-Leave-rt-Heat-30min|Stirr-Seal-Carry-out-from
-6,"label: Leave, type: procedure, temperature: rt, time: 48 hours, <-->Carry out from glove box--Seal--Seal",temperature-Leave-rt-Heat-30min|Stirr-Seal-Carry-out-from
-7,"label: Leave, type: procedure, temperature: rt, time: 16 hours, <-->Carry out from glove box--Heat--Heat",temperature-Leave-rt-Heat-30min|Stirr-Seal-Carry-out-from
-8,"label: Heat, type: procedure, temperature: 150 oC, time: 30 min, <-->Cool--Stirr--Stirr",temperature-Leave-rt-Heat-30min|Stirr-Seal-Carry-out-from
-9,"label: Leave, type: procedure, temperature: rt, time: 20 hours, <-->Break vacuum pack--Seal--Seal",sample-CT-complex-temperature-Fill|Seal-Add-Cool-Ball-mill
-10,"label: Fill and press, type: procedure, <-->Add electrolyte--Add electrolyte--Seal",sample-CT-complex-temperature-Fill|Seal-Add-Cool-Ball-mill
-11,"label: CT complex, type: sample, <-->Ball mill--Ball mill--Fill sample",sample-CT-complex-temperature-Fill|Seal-Add-Cool-Ball-mill
-12,"label: CT complex, type: sample, <-->Cool--Cool--Mix",sample-CT-complex-temperature-Fill|Seal-Add-Cool-Ball-mill
-13,"label: Fill and press, type: procedure, <-->Add anode--Add anode--Seal",sample-CT-complex-temperature-Fill|Seal-Add-Cool-Ball-mill
-14,"label: CT complex, type: sample, <-->Ball mill--Cool--Cool",sample-CT-complex-temperature-Fill|Seal-Add-Cool-Ball-mill
-15,"label: Cool, type: procedure, temperature: r.t., <-->Fill sample--Heat--Heat",sample-CT-complex-temperature-Fill|Seal-Add-Cool-Ball-mill
-16,"label: Add d-DMSO, type: sample, <-->Mix",sample-CT-complex-temperature-Fill|Seal-Add-Cool-Ball-mill
-17,"label: Heat, type: procedure, temperature: 180 oC, time: 60 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-18,"label: Heat, type: procedure, temperature: 200 oC, time: 30 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-19,"label: Heat, type: procedure, temperature: 200 oC, time: 65 min, <-->Petri dish--Petri dish--Stirr",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-20,"label: Heat, type: procedure, temperature: 250 oC, time: 30 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-21,"label: Heat, type: procedure, temperature: 210 oC, time: 5 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-22,"label: Heat, type: procedure, temperature: 200 oC, time: 45 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-23,"label: Heat, type: procedure, temperature: 200 oC, time: 60 min, <-->Petri dish--Petri dish--Stirr",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-24,"label: Heat, type: procedure, temperature: 205 oC, time: 5 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-25,"label: Heat, type: procedure, temperature: 250 oC, time: 15 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-26,"label: Heat, type: procedure, temperature: 200 oC, time: 60 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-27,"label: Heat, type: procedure, temperature: 180 oC, time: 30 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-28,"label: Heat, type: procedure, temperature: 120 oC, time: 15 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-29,"label: Heat, type: procedure, temperature: 150 oC, time: 20 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-30,"label: Heat, type: procedure, temperature: 300 oC, time: 30 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-31,"label: Heat, type: procedure, temperature: 120 oC, time: 150 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-32,"label: Heat, type: procedure, temperature: 210 oC, time: 20 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-33,"label: Heat, type: procedure, temperature: 150 oC, time: 50 min, <-->Petri dish--Petri dish--Stirr",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-34,"label: Heat, type: procedure, temperature: 210 oC, time: 30 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-35,"label: Heat, type: procedure, temperature: 200 oC, time: 20 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-36,"label: Heat, type: procedure, temperature: 200 oC, time: 40 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-37,"label: Heat, type: procedure, temperature: 200 oC, time: 15 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-38,"label: Heat, type: procedure, temperature: 300 oC, time: 5 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-39,"label: Heat, type: procedure, temperature: 235 oC, time: 5 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-40,"label: Heat, type: procedure, temperature: 300 oC, time: 5 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-41,"label: Heat, type: procedure, temperature: 200 oC, time: 90 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-42,"label: Heat, type: procedure, temperature: 150 oC, time: 30 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-5min|Petri-dish-Heat-Cool-Stirr
-43,"label: Heat, type: procedure, temperature: 160 oC, time: 30 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-44,"label: Heat, type: procedure, temperature: 200 oC, time: 45 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-45,"label: Heat, type: procedure, temperature: 300 oC, time: 75 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-46,"label: Heat, type: procedure, temperature: 300 oC, time: 30 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-47,"label: Heat, type: procedure, temperature: 250 oC, time: 10 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-48,"label: Heat, type: procedure, temperature: 300 oC, time: 80 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-49,"label: Heat, type: procedure, temperature: 300 oC, time: 60 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-50,"label: Heat, type: procedure, temperature: 150 oC, time: 30 min, <-->Petri dish--Petri dish",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-51,"label: Heat, type: procedure, temperature: 300 oC, time: 45 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-52,"label: Heat, type: procedure, temperature: 250 oC, time: 30 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-53,"label: Heat, type: procedure, temperature: 280 oC, time: 30 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-54,"label: Heat, type: procedure, temperature: 160 oC, time: 20 min, <-->Heat--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-55,"label: Heat, type: procedure, temperature: 300 oC, time: 60 min, <-->Heat--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-56,"label: Heat, type: procedure, temperature: 160 oC, time: 20 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
-57,"label: Add anode, type: procedure, <-->Add electrolyte--Add electrolyte--Fill and press",Add-Cool-anode-cathode-electrolyte|Add-electrolyte-Transport-to-glove
-58,"label: Cool, type: procedure, <-->Add electrolyte--Transport to glove box--Transport to glove box",Add-Cool-anode-cathode-electrolyte|Add-electrolyte-Transport-to-glove
-59,"label: Cool, type: procedure, <-->Add cathode--Transport to glove box--Transport to glove box",Add-Cool-anode-cathode-electrolyte|Add-electrolyte-Transport-to-glove
-60,"label: Add cathode, type: procedure, <-->Add electrolyte--Cool--Cool",Add-Cool-anode-cathode-electrolyte|Add-electrolyte-Transport-to-glove
-61,"label: Add electrolyte, type: procedure, <-->Add anode--Add cathode--Add cathode",Add-Cool-anode-cathode-electrolyte|Add-electrolyte-Transport-to-glove
-62,"label: Add acceptor, type: procedure, protocol: collect acceptors on aluminium foils and add to petri dish, <-->Heat--Heat--Heat",and-Deassemble-cell-Fill-sample|Carry-out-from-glove-box
-63,"label: Deassemble cell, type: procedure, <-->Carry out from glove box--Carry out from glove box--SEM measurement",and-Deassemble-cell-Fill-sample|Carry-out-from-glove-box
-64,"label: Deassemble cell, type: procedure, <-->Measure Battery--Measure Battery--Measure thickness of electrolyte",and-Deassemble-cell-Fill-sample|Carry-out-from-glove-box
-65,"label: Start experiment, <-->Set environment",and-Deassemble-cell-Fill-sample|Carry-out-from-glove-box
-66,"label: Fill sample, type: procedure, protocol: fill into DSC pan, <-->Carry out from glove box--Weigh--Weigh",and-Deassemble-cell-Fill-sample|Carry-out-from-glove-box
-67,"label: Leave, type: procedure, temperature: rt, time: 20 hours, <-->Measure EIS--Seal--Seal",and-Deassemble-cell-Fill-sample|Carry-out-from-glove-box
-68,"label: Carry out from glove box, type: procedure, <-->Fill sample--Fill sample--Preheat",and-Deassemble-cell-Fill-sample|Carry-out-from-glove-box
-69,"label: Carry out from glove box, type: procedure, <-->Deassemble cell--Leave--Leave",and-Deassemble-cell-Fill-sample|Carry-out-from-glove-box
-70,"label: Fill sample, type: procedure, protocol: fill into NMR tube and seal, <-->Carry out from glove box--Cool--Cool",and-Deassemble-cell-Fill-sample|Carry-out-from-glove-box
-71,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 5 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-72,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-73,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 20 min, <-->Cool--Cool--Electrolyte",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-74,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 30 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-75,"label: Measure NMR, type: procedure, <-->Carry out from glove box--Carry out from glove box",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-76,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-77,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Cool--Cool--Electrolyte",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-78,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 30 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-79,"label: Preheat, type: procedure, <-->Carry out from glove box--Carry out from glove box--Measure NMR",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-80,"label: Carry out from glove box, type: procedure, <-->Leave--Leave--Measure EIS",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-81,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 60 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-60min|Mix-Petri-dish-Cool-Carry
-82,"label: Measure particle size, type: procedure, <-->Ball mill--Ball mill",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-83,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 90 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-84,"label: Add salt, type: sample, <-->Mix",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-85,"label: Measure water by NMR, type: procedure, <-->Break seal--Break seal",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-86,"label: Fill sample into NMR tube, type: procedure, <-->Filtration--Filtration--Seal",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-87,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Grind--Grind--Wash salt",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-88,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 120 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-89,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 20 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-90,"label: Weigh, type: procedure, <-->Ball mill--Ball mill--Dry",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-91,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 0 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-92,"label: Weigh, type: procedure, <-->Ball mill--Ball mill--Fill sample",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-93,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-94,"label: Weigh, type: procedure, <-->CT complex--Grind--Grind",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-95,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 30 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-96,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-Weigh|Grind-Measure-particle-size-Ball
-97,"label: Heat, type: procedure, temperature: 160 oC, time: 30 min, <-->Cool",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-98,"label: Heat, type: procedure, temperature: 280 oC, time: 30 min, <-->Cool--Refill acceptor--Refill acceptor",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-99,"label: Electrolyte, type: sample, <-->Mix--Set environment--Set environment",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-100,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-101,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 1 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-102,"label: Carry out from glove box, type: procedure, <-->Fill sample--Fill sample--Measure NMR",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-103,"label: Carry out from glove box, type: procedure, <-->Break seal--Seal--Seal",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-104,"label: Petri dish, type: procedure, <-->Ball mill--Ball mill--Heat",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-105,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 5 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-106,"label: Mix, type: procedure, <-->Add acceptor--Add acceptor--Add donor--Add donor--Petri dish--Set environment--Set environment",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-107,"label: Carry out from glove box, type: procedure, <-->Heat--Seal--Seal",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-108,"label: Weigh, type: procedure, <-->CT complex--Cool--Cool",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-109,"label: Fabricate cell, type: procedure, <-->Measure EIS--Select cell--Select cell",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-110,"label: Add donor, type: sample, <-->Mix",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-111,"label: Seal, type: procedure, <-->Carry out from glove box--Fill sample into NMR tube--Fill sample into NMR tube",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-112,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->CT complex--CT complex--Mix",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-113,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-114,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 5 min, <-->CT complex--CT complex--Mix",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-115,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 90 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-116,"label: Weigh, type: procedure, <-->Ball mill--Ball mill--Select cell",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-117,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->CT complex--CT complex--Mix",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-118,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 30 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-119,"label: Carry out from glove box, type: procedure, <-->Seal--Seal--Seal",Ball-mill-frequency-50Hz-Carry|CT-complex-Measure-Seal-particle
-120,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 15 min, <-->Ball mill--Ball mill--Petri dish",Ball-mill-frequency-15min-50Hz|Ball-mill-Mix-Wash-salt
-121,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--Ball mill--Mix",Ball-mill-frequency-15min-50Hz|Ball-mill-Mix-Wash-salt
-122,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Ball mill--Ball mill--Ball mill",Ball-mill-frequency-15min-50Hz|Ball-mill-Mix-Wash-salt
-123,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Ball mill--Ball mill--Wash salt",Ball-mill-frequency-15min-50Hz|Ball-mill-Mix-Wash-salt
-124,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--Ball mill--Wash salt",Ball-mill-frequency-15min-50Hz|Ball-mill-Mix-Wash-salt
-125,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 15 min, <-->Ball mill--Mix--Mix",Ball-mill-frequency-15min-50Hz|Ball-mill-Mix-Wash-salt
-126,"label: Cool, type: procedure, temperature: r.t., protocol: remove aluminium foil for faster cooling, <-->Ball mill--Heat--Heat",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-127,"label: Leave, type: procedure, temperature: rt, time: 16 hours, <-->Break vacuum pack--Heat--Heat",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-128,"label: Fill sample, type: procedure, protocol: fill into DSC pan, <-->Add donor--Add donor--Carry out from glove box",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-129,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->CT complex--Cool--Cool",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-130,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 20 min, <-->CT complex--Cool--Cool",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-131,"label: Fill sample, type: procedure, protocol: fill into NMR tube and seal, <-->Add salt--Add salt--Carry out from glove box",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-132,"label: Deassemble cell, type: procedure, <-->Leave--Leave--Mix",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-133,"label: Break vacuum pack, type: procedure, <-->Leave--Leave--Measure EIS",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-134,"label: Measure DSC, type: procedure, <-->Carry out from glove box--Carry out from glove box",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-135,"label: Seal, type: procedure, protocol: wrap tightening part with PTFE tape three times , <-->Fill and press--Fill and press--Seal",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-136,"label: Seal, type: procedure, protocol: wrap tightening part with PTFE tape three times , <-->Fill and press--Fill and press--Heat",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-137,"label: Measure EIS, type: procedure, <-->Deassemble cell--Leave--Leave",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-138,"label: Fill sample, type: procedure, protocol: fill into DSC pan, <-->Add salt--Add salt--Carry out from glove box",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-139,"label: Add electrolyte, type: procedure, <-->Cool--Cool--Fill and press",Fill-sample-fill-into-DSC|Add-Cool-Leave-Heat-Carry
-140,"label: Cool, type: procedure, temperature: r.t., <-->Ball mill--Heat--Heat",temperature-Cool-r.t.-Heat-280oC|Heat-Add-acceptor-Ball-mill
-141,"label: Heat, type: procedure, temperature: 280 oC, time: 30 min, <-->Add acceptor--Add acceptor--Cool",temperature-Cool-r.t.-Heat-280oC|Heat-Add-acceptor-Ball-mill
-142,"label: Cool, type: procedure, temperature: r.t., <-->CT complex--Heat--Heat",temperature-Cool-r.t.-Heat-280oC|Heat-Add-acceptor-Ball-mill
-143,"label: Cool, type: procedure, temperature: r.t., <-->Heat--Heat--Select cell",temperature-Cool-r.t.-Heat-280oC|Heat-Add-acceptor-Ball-mill
-144,"label: Cool, type: procedure, temperature: r.t., <-->Grind--Heat--Heat",temperature-Cool-r.t.-Heat-280oC|Heat-Add-acceptor-Ball-mill
-145,"label: Cool, type: procedure, temperature: r.t., <-->Heat--Heat--Weigh",temperature-Cool-r.t.-Heat-280oC|Heat-Add-acceptor-Ball-mill
-146,"label: Motor, type: procedure, protocol: grind, time: 10 min, <-->Cool--Cool--Fill sample",CT-complex-sample-Motor-grind|Weigh-Ball-mill-Cool-Mix
-147,"label: CT complex, type: sample, <-->Grind--Weigh--Weigh",CT-complex-sample-Motor-grind|Weigh-Ball-mill-Cool-Mix
-148,"label: CT complex, type: sample, <-->Ball mill--Ball mill--Mix",CT-complex-sample-Motor-grind|Weigh-Ball-mill-Cool-Mix
-149,"label: CT complex, type: sample, <-->Ball mill--Weigh--Weigh",CT-complex-sample-Motor-grind|Weigh-Ball-mill-Cool-Mix
-150,"label: CT complex, type: sample, <-->Mix--Weigh--Weigh",CT-complex-sample-Motor-grind|Weigh-Ball-mill-Cool-Mix
-151,"label: Measure EIS, type: procedure, temperature: 80 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-152,"label: Measure EIS, type: procedure, temperature: 50 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-153,"label: Measure EIS, type: procedure, temperature: 90 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-154,"label: Measure EIS, type: procedure, temperature: 70 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-155,"label: Measure EIS, type: procedure, temperature: 25 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-156,"label: Heat, type: procedure, temperature: 80 oC, time: 4 hours, machine: AMF-20N, <-->Leave--Seal--Seal",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-157,"label: Measure EIS, type: procedure, temperature: 60 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-158,"label: Measure EIS, type: procedure, temperature: 40 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-159,"label: Heat, type: procedure, temperature: 100 oC, time: 4 hours, machine: AMF-20N, <-->Leave--Seal--Seal",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-160,"label: Measure EIS, type: procedure, temperature: 153 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-161,"label: Measure thickness of electrolyte, type: procedure, <-->Deassemble cell--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-162,"label: Leave, type: procedure, temperature: rt, time: 120 hours, <-->Carry out from glove box--Carry out from glove box--Measure EIS",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-163,"label: Refill acceptor, type: procedure, protocol: collect acceptor on aluminium foil and readd it to petri dish, <-->Heat--Heat--Heat",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Deassemble-cell
-164,"label: Weigh, type: procedure, <-->Cool--Cool--Fill sample",Weigh-Measure-NMR-|Cool-Preheat-Fill-sample-
-165,"label: Measure NMR, type: procedure, <-->Preheat--Preheat",Weigh-Measure-NMR-|Cool-Preheat-Fill-sample-
-166,"label: Heat, type: procedure, temperature: 150 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-167,"label: Heat, type: procedure, temperature: 270 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-168,"label: Heat, type: procedure, temperature: 150 oC, time: 20 min, <-->Cool--Refill acceptor--Refill acceptor",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-169,"label: Heat, type: procedure, temperature: 120 oC, time: 10 min, protocol: mix with spatula, <-->Heat--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-170,"label: Heat, type: procedure, temperature: 150 oC, time: 20 min, <-->Petri dish--Petri dish--Refill acceptor",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-171,"label: Heat, type: procedure, temperature: 300 oC, time: 10 min, protocol: mix with spatula, <-->Heat--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-172,"label: Heat, type: procedure, temperature: 300 oC, time: 10 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-173,"label: Heat, type: procedure, temperature: 200 oC, time: 30 min, <-->Petri dish--Petri dish--Refill acceptor",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-174,"label: Heat, type: procedure, temperature: 300 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-175,"label: Heat, type: procedure, temperature: 200 oC, time: 45 min, <-->Petri dish--Petri dish--Refill acceptor",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-176,"label: Heat, type: procedure, temperature: 150 oC, time: 1 min, protocol: mix with spatula, <-->Heat--Heat--Heat",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-177,"label: Heat, type: procedure, temperature: 150 oC, time: 10 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-178,"label: Heat, type: procedure, temperature: 240 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-179,"label: SEM measurement, type: procedure, <-->Deassemble cell--Deassemble cell",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-180,"label: Heat, type: procedure, temperature: 280 oC, time: 10 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-181,"label: Heat, type: procedure, temperature: 200 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-182,"label: Mix, type: procedure, <-->Add salt--Add salt--Ball mill--Ball mill--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-183,"label: Heat, type: procedure, temperature: 250 oC, time: 10 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-184,"label: Cool, type: procedure, temperature: r.t., <-->Heat--Heat--Motor",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-185,"label: Heat, type: procedure, temperature: 300 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Heat--Heat",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-186,"label: Heat, type: procedure, temperature: 120 oC, time: 10 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-187,"label: Heat, type: procedure, temperature: 260 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-188,"label: Heat, type: procedure, temperature: 150 oC, time: 15 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-189,"label: Heat, type: procedure, temperature: 150 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Heat--Heat",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-190,"label: Heat, type: procedure, temperature: 250 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Heat--Heat",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-191,"label: Heat, type: procedure, temperature: 80 oC, time: 4 hours, machine: hot plate, <-->Leave--Seal--Seal",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
-192,"label: Seal, type: procedure, protocol: wrap tightening part with PTFE tape three times , <-->Fill and press--Fill and press--Leave",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-193,"label: Transport to glove box, type: procedure, <-->Cool--Dry--Dry",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-194,"label: Seal, type: procedure, protocol: vacuum pack using KitchenBoss G210, <-->Carry out from glove box--Seal--Seal",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-195,"label: Stirr, type: procedure, protocol: mix with spatula, <-->Heat--Heat--Heat",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-196,"label: Deassemble cell, type: procedure, <-->Carry out from glove box--Carry out from glove box--Mix",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-197,"label: Measure EIS, type: procedure, <-->Deassemble cell--Fabricate cell--Fabricate cell",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-198,"label: Select cell, type: procedure, <-->Add salt--Add salt--Dry",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-199,"label: Break seal, type: procedure, <-->Carry out from glove box--Carry out from glove box--Measure water by NMR",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-200,"label: Fill sample, type: procedure, protocol: fill into XRD tube and seal, <-->Add salt--Add salt--Carry out from glove box",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-201,"label: Seal, type: procedure, protocol: vacuum pack using KitchenBoss G210, <-->Carry out from glove box--Carry out from glove box--Heat",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-202,"label: Seal, type: procedure, protocol: vacuum pack using KitchenBoss G210, <-->Carry out from glove box--Carry out from glove box--Leave",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-203,"label: Measure EIS, type: procedure, <-->Break vacuum pack--Break vacuum pack--Deassemble cell",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-204,"label: Measure EIS, type: procedure, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",Seal-vacuum-pack-using-KitchenBoss|Carry-out-from-glove-box
-205,"label: Mix, type: procedure, <-->Add d-DMSO--Add d-DMSO--Deassemble cell--Deassemble cell--Filtration",Mix-|Add-d-DMSO-Deassemble-cell-Filtration
-206,"label: Mix, type: procedure, <-->Add d-DMSO--Add d-DMSO--Electrolyte--Electrolyte--Filtration",Mix-|Add-d-DMSO-Deassemble-cell-Filtration
-207,"label: Petri dish, type: procedure, <-->Heat--Mix--Mix",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-208,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 75 min, <-->Cool--Cool--Dry",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-209,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 20 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-210,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-211,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 60 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-212,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-213,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Fill sample--Grind--Grind",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-214,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 75 min, <-->Cool--Cool--Wash salt",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-215,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 5 min, <-->Cool--Cool--Weigh",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-216,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 30 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-217,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 75 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-218,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Cool--Cool--Dry",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-219,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Cool--Cool--Weigh",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Mix-Dry
-220,"label: Measure XRD, type: procedure, temperature: 120 oC, <-->Carry out from glove box--Carry out from glove box",temperature-Measure-XRD-cell-120oC|Carry-out-from-glove-box
-221,"label: Measure XRD, type: procedure, temperature: 80 oC, <-->Carry out from glove box--Carry out from glove box",temperature-Measure-XRD-cell-120oC|Carry-out-from-glove-box
-222,"label: Deassemble cell, type: procedure, <-->Measure EIS--Measure EIS--Measure thickness of electrolyte",temperature-Measure-XRD-cell-120oC|Carry-out-from-glove-box
-223,"label: Leave, type: procedure, temperature: rt, time: 120 hours, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-Measure-XRD-cell-120oC|Carry-out-from-glove-box
-224,"label: Measure XRD, type: procedure, temperature: 100 oC, <-->Carry out from glove box--Carry out from glove box",temperature-Measure-XRD-cell-120oC|Carry-out-from-glove-box
-225,"label: Measure XRD, type: procedure, temperature: 50 oC, <-->Carry out from glove box--Carry out from glove box",temperature-Measure-XRD-cell-120oC|Carry-out-from-glove-box
-226,"label: Measure XRD, type: procedure, temperature: 25 oC, <-->Carry out from glove box--Carry out from glove box",temperature-Measure-XRD-cell-120oC|Carry-out-from-glove-box
-227,"label: Select cell, type: procedure, <-->Dry--Electrolyte--Electrolyte",temperature-Measure-XRD-cell-120oC|Carry-out-from-glove-box
-228,"label: Set environment, type: procedure, <-->Add donor--Set environment--Set environment",Set-environment-|Set-environment-Add-donor-Mix
-229,"label: Set environment, type: procedure, <-->Mix--Set environment--Set environment",Set-environment-|Set-environment-Add-donor-Mix
-230,"label: Set environment, type: procedure, <-->Set environment--Start experiment--Start experiment",Set-environment-Measure-particle-size|Start-experiment-Set-environment-salt
-231,"label: Set environment, type: procedure, <-->Electrolyte--Start experiment--Start experiment",Set-environment-Measure-particle-size|Start-experiment-Set-environment-salt
-232,"label: Measure particle size, type: procedure, <-->Wash salt--Wash salt",Set-environment-Measure-particle-size|Start-experiment-Set-environment-salt
-233,"label: Set environment, type: procedure, <-->Mix--Start experiment--Start experiment",Set-environment-Measure-particle-size|Start-experiment-Set-environment-salt
-234,"label: Set environment, type: procedure, <-->Add salt--Set environment--Set environment",Set-environment-Measure-particle-size|Start-experiment-Set-environment-salt
-235,"label: Measure EIS, type: procedure, temperature: 100 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-236,"label: Measure EIS, type: procedure, temperature: 120 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-237,"label: Measure Battery, type: procedure, temperature: 50 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-238,"label: Measure EIS, type: procedure, temperature: 60 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-239,"label: Measure EIS, type: procedure, temperature: 40 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-240,"label: Measure EIS, type: procedure, temperature: 90 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-241,"label: Measure EIS, type: procedure, temperature: 0 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-242,"label: Measure EIS, type: procedure, temperature: 70 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-243,"label: Heat, type: procedure, temperature: 100 oC, time: 4 hours, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Leave",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-244,"label: Measure EIS, type: procedure, temperature: 110 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-245,"label: Measure EIS, type: procedure, temperature: 50 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-246,"label: Measure EIS, type: procedure, temperature: 80 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-247,"label: Measure EIS, type: procedure, temperature: 25 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Deassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
-248,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Ball mill--Ball mill--Select cell",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-CT
-249,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Ball mill--Ball mill--Select cell",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-CT
-250,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--Ball mill--Select cell",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-CT
-251,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--CT complex--CT complex",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-CT
-252,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Ball mill--Ball mill--Fill sample",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-CT
-253,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--Ball mill--Fill sample",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-CT
-254,"label: Dry, type: procedure, temperature: 100 oC, time: 1 hour, <-->Select cell--Select cell--Transport to glove box",Fill-sample-fill-into-tube|glove-box-Ball-mill-Carry
-255,"label: Fill sample, type: procedure, protocol: fill into DSC pan, <-->Ball mill--Ball mill--Carry out from glove box",Fill-sample-fill-into-tube|glove-box-Ball-mill-Carry
-256,"label: Fill sample, type: procedure, protocol: fill into XRD tube and seal, <-->Carry out from glove box--Weigh--Weigh",Fill-sample-fill-into-tube|glove-box-Ball-mill-Carry
-257,"label: Fill sample, type: procedure, protocol: fill into NMR tube and seal, <-->Ball mill--Ball mill--Carry out from glove box",Fill-sample-fill-into-tube|glove-box-Ball-mill-Carry
-258,"label: Dry, type: procedure, temperature: 100 oC, time: 1 hour, <-->Transport to glove box--Weigh--Weigh",Fill-sample-fill-into-tube|glove-box-Ball-mill-Carry
-259,"label: Fill sample, type: procedure, protocol: fill into XRD tube and seal, <-->Carry out from glove box--Motor--Motor",Fill-sample-fill-into-tube|glove-box-Ball-mill-Carry
-260,"label: Fill sample, type: procedure, protocol: fill into XRD tube and seal, <-->Ball mill--Ball mill--Carry out from glove box",Fill-sample-fill-into-tube|glove-box-Ball-mill-Carry
-261,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--Cool--Cool",Ball-mill-frequency-50Hz-10min|Cool-Ball-mill-
-262,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Ball mill--Cool--Cool",Ball-mill-frequency-50Hz-10min|Cool-Ball-mill-
-263,"label: Grind, type: procedure, protocol: grind slightly, <-->Ball mill--Cool--Cool",Add-sample-Grind-grind-slightly|Set-environment-Cool-Fill-sample
-264,"label: Carry out from glove box, type: procedure, <-->Fill sample--Fill sample--Measure XRD",Add-sample-Grind-grind-slightly|Set-environment-Cool-Fill-sample
-265,"label: Add donor, type: sample, <-->Fill sample--Set environment--Set environment",Add-sample-Grind-grind-slightly|Set-environment-Cool-Fill-sample
-266,"label: Mix, type: procedure, <-->Add salt--Add salt--Ball mill--CT complex--CT complex",Add-sample-Grind-grind-slightly|Set-environment-Cool-Fill-sample
-267,"label: Add salt, type: sample, <-->Select cell--Set environment--Set environment",Add-sample-Grind-grind-slightly|Set-environment-Cool-Fill-sample
-268,"label: Grind, type: procedure, protocol: grind slightly, <-->Cool--Cool--Weigh",Add-sample-Grind-grind-slightly|Set-environment-Cool-Fill-sample
-269,"label: Add salt, type: sample, <-->Fill sample--Set environment--Set environment",Add-sample-Grind-grind-slightly|Set-environment-Cool-Fill-sample
-270,"label: Electrolyte, type: sample, <-->Ball mill--Ball mill--Select cell",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-271,"label: Grind, type: procedure, protocol: motor, time: 3 min, <-->Ball mill--CT complex--CT complex",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-272,"label: Mix, type: procedure, <-->Add acceptor--Add acceptor--Add donor--Add donor--Ball mill--Set environment--Set environment",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-273,"label: Mix, type: procedure, <-->Add salt--Add salt--CT complex--CT complex--Petri dish",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-274,"label: Select cell, type: procedure, <-->Dry--Weigh--Weigh",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-275,"label: Select cell, type: procedure, <-->Ball mill--Ball mill--Dry",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-276,"label: Fill sample, type: procedure, protocol: fill into NMR tube and seal, <-->CT complex--CT complex--Carry out from glove box",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-277,"label: Select cell, type: procedure, <-->Cool--Cool--Dry",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-278,"label: Carry out from glove box, type: procedure, <-->Measure Battery--Seal--Seal",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-279,"label: Carry out from glove box, type: procedure, <-->Measure EIS--Seal--Seal",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-280,"label: Add acceptor, type: sample, <-->Mix",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-281,"label: Mix, type: procedure, <-->Add salt--Add salt--Ball mill--Ball mill--Ball mill",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-282,"label: Carry out from glove box, type: procedure, <-->Fill sample--Fill sample--Measure DSC",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-283,"label: Carry out from glove box, type: procedure, <-->Fill and press--Fill and press--Leave",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-284,"label: Wash salt, type: procedure, protocol: by water, <-->Ball mill--Ball mill--Measure particle size",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-285,"label: Select cell, type: procedure, <-->Ball mill--Ball mill--Fabricate cell",Select-cell-Carry-out-from|Ball-mill-Add-CT-complex
-286,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-40Hz|Cool-Select-cell-Grind-Mix
-287,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-40Hz|Cool-Select-cell-Grind-Mix
-288,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 30 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-40Hz|Cool-Select-cell-Grind-Mix
-289,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Grind--Grind--Select cell",Ball-mill-frequency-50Hz-40Hz|Cool-Select-cell-Grind-Mix
-290,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 60 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-40Hz|Cool-Select-cell-Grind-Mix
-291,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 75 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-40Hz|Cool-Select-cell-Grind-Mix
-292,"label: Filtration, type: procedure, <-->Fill sample into NMR tube--Mix--Mix",Ball-mill-frequency-50Hz-40Hz|Cool-Select-cell-Grind-Mix
-293,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 20 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-40Hz|Cool-Select-cell-Grind-Mix
-294,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-40Hz|Cool-Select-cell-Grind-Mix
-295,"label: Seal, type: procedure, protocol: wrap tightening part with PTFE tape three times , <-->Carry out from glove box--Fill and press--Fill and press",temperature-Seal-wrap-tightening-part|glove-box-Add-Carry-out
-296,"label: Fill and press, type: procedure, <-->Add electrolyte--Add electrolyte--Carry out from glove box",temperature-Seal-wrap-tightening-part|glove-box-Add-Carry-out
-297,"label: Heat, type: procedure, temperature: 200 oC, time: 30 min, <-->Add acceptor--Petri dish--Petri dish",temperature-Seal-wrap-tightening-part|glove-box-Add-Carry-out
-298,"label: Dry, type: procedure, temperature: 100 oC, time: 1 hour, <-->Ball mill--Ball mill--Transport to glove box",temperature-Seal-wrap-tightening-part|glove-box-Add-Carry-out
+0,"label: Heat, type: procedure, temperature: 300 oC, time: 60 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+1,"label: Heat, type: procedure, temperature: 160 oC, time: 30 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+2,"label: Heat, type: procedure, temperature: 280 oC, time: 30 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+3,"label: Heat, type: procedure, temperature: 300 oC, time: 75 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+4,"label: Heat, type: procedure, temperature: 160 oC, time: 20 min, <-->Heat--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+5,"label: Heat, type: procedure, temperature: 250 oC, time: 30 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+6,"label: Heat, type: procedure, temperature: 160 oC, time: 20 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+7,"label: Heat, type: procedure, temperature: 250 oC, time: 10 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+8,"label: Heat, type: procedure, temperature: 300 oC, time: 30 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+9,"label: Heat, type: procedure, temperature: 300 oC, time: 80 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+10,"label: Heat, type: procedure, temperature: 300 oC, time: 45 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+11,"label: Heat, type: procedure, temperature: 150 oC, time: 30 min, <-->Petri dish--Petri dish",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+12,"label: Heat, type: procedure, temperature: 300 oC, time: 60 min, <-->Heat--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+13,"label: Heat, type: procedure, temperature: 200 oC, time: 45 min, <-->Cool--Heat--Heat",Heat-temperature-300oC-30min-160oC|Heat-Cool-Petri-dish-
+14,"label: Heat, type: procedure, temperature: 300 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+15,"label: Heat, type: procedure, temperature: 120 oC, time: 10 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+16,"label: Heat, type: procedure, temperature: 200 oC, time: 45 min, <-->Petri dish--Petri dish--Refill acceptor",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+17,"label: Heat, type: procedure, temperature: 250 oC, time: 10 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+18,"label: Select cell, type: procedure, <-->Dry--Weigh--Weigh",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+19,"label: Heat, type: procedure, temperature: 300 oC, time: 10 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+20,"label: Heat, type: procedure, temperature: 205 oC, time: 5 min, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+21,"label: Heat, type: procedure, temperature: 150 oC, time: 20 min, <-->Cool--Refill acceptor--Refill acceptor",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+22,"label: Heat, type: procedure, temperature: 260 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+23,"label: Heat, type: procedure, temperature: 80 oC, time: 4 hours, machine: hot plate, <-->Leave--Seal--Seal",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+24,"label: Heat, type: procedure, temperature: 150 oC, time: 20 min, <-->Petri dish--Petri dish--Refill acceptor",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+25,"label: Heat, type: procedure, temperature: 300 oC, time: 5 min, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+26,"label: Heat, type: procedure, temperature: 80 oC, time: 4 hours, machine: AMF-20N, <-->Leave--Seal--Seal",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+27,"label: Heat, type: procedure, temperature: 150 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+28,"label: Heat, type: procedure, temperature: 250 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Heat--Heat",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+29,"label: Heat, type: procedure, temperature: 150 oC, time: 1 min, protocol: mix with spatula, <-->Heat--Heat--Heat",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+30,"label: Heat, type: procedure, temperature: 150 oC, time: 15 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+31,"label: Heat, type: procedure, temperature: 240 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+32,"label: Heat, type: procedure, temperature: 200 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+33,"label: Heat, type: procedure, temperature: 270 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+34,"label: Cool, type: procedure, temperature: r.t., <-->Heat--Heat--Motor",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+35,"label: Heat, type: procedure, temperature: 210 oC, time: 5 min, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+36,"label: Heat, type: procedure, temperature: 300 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Heat--Heat",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+37,"label: Heat, type: procedure, temperature: 120 oC, time: 10 min, protocol: mix with spatula, <-->Heat--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+38,"label: Mix, type: procedure, <-->Add salt--Add salt--Ball mill--Ball mill--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+39,"label: Heat, type: procedure, temperature: 200 oC, time: 30 min, <-->Petri dish--Petri dish--Refill acceptor",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+40,"label: Heat, type: procedure, temperature: 150 oC, time: 10 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+41,"label: Heat, type: procedure, temperature: 300 oC, time: 10 min, protocol: mix with spatula, <-->Heat--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+42,"label: Heat, type: procedure, temperature: 150 oC, time: 5 min, protocol: mix with spatula, <-->Cool--Heat--Heat",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+43,"label: Heat, type: procedure, temperature: 280 oC, time: 10 min, protocol: mix with spatula, <-->Cool--Petri dish--Petri dish",temperature-Heat-mix-with-spatula|Petri-dish-Cool-Heat-Refill
+44,"label: CT complex, type: sample, <-->Ball mill--Ball mill--Fill sample",sample-temperature-CT-complex-Cool|Heat-Ball-mill-Cool-Seal
+45,"label: CT complex, type: sample, <-->Ball mill--Cool--Cool",sample-temperature-CT-complex-Cool|Heat-Ball-mill-Cool-Seal
+46,"label: Cool, type: procedure, temperature: r.t., protocol: remove aluminium foil for faster cooling, <-->Ball mill--Heat--Heat",sample-temperature-CT-complex-Cool|Heat-Ball-mill-Cool-Seal
+47,"label: Fill and press, type: procedure, <-->Add anode--Add anode--Seal",sample-temperature-CT-complex-Cool|Heat-Ball-mill-Cool-Seal
+48,"label: Add d-DMSO, type: sample, <-->Mix",sample-temperature-CT-complex-Cool|Heat-Ball-mill-Cool-Seal
+49,"label: Leave, type: procedure, temperature: rt, time: 20 hours, <-->Break vacuum pack--Seal--Seal",sample-temperature-CT-complex-Cool|Heat-Ball-mill-Cool-Seal
+50,"label: Leave, type: procedure, temperature: rt, time: 16 hours, <-->Break vacuum pack--Heat--Heat",sample-temperature-CT-complex-Cool|Heat-Ball-mill-Cool-Seal
+51,"label: Cool, type: procedure, temperature: r.t., <-->Fill sample--Heat--Heat",sample-temperature-CT-complex-Cool|Heat-Ball-mill-Cool-Seal
+52,"label: CT complex, type: sample, <-->Cool--Cool--Mix",sample-temperature-CT-complex-Cool|Heat-Ball-mill-Cool-Seal
+53,"label: Dry, type: procedure, temperature: 100 oC, time: 1 hour, <-->Ball mill--Ball mill--Transport to glove box",temperature-Leave-rt-Dry-100oC|glove-box-Carry-out-from
+54,"label: Seal, type: procedure, protocol: wrap tightening part with PTFE tape three times , <-->Carry out from glove box--Fill and press--Fill and press",temperature-Leave-rt-Dry-100oC|glove-box-Carry-out-from
+55,"label: Leave, type: procedure, temperature: rt, time: 16 hours, <-->Carry out from glove box--Heat--Heat",temperature-Leave-rt-Dry-100oC|glove-box-Carry-out-from
+56,"label: Leave, type: procedure, temperature: rt, time: 20 hours, <-->Carry out from glove box--Seal--Seal",temperature-Leave-rt-Dry-100oC|glove-box-Carry-out-from
+57,"label: Leave, type: procedure, temperature: rt, time: 48 hours, <-->Carry out from glove box--Seal--Seal",temperature-Leave-rt-Dry-100oC|glove-box-Carry-out-from
+58,"label: Leave, type: procedure, temperature: rt, time: 120 hours, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-Leave-rt-Dry-100oC|glove-box-Carry-out-from
+59,"label: Leave, type: procedure, temperature: rt, time: 72 hours, <-->Carry out from glove box--Seal--Seal",temperature-Leave-rt-Dry-100oC|glove-box-Carry-out-from
+60,"label: Leave, type: procedure, temperature: rt, time: 96 hours, <-->Carry out from glove box--Seal--Seal",temperature-Leave-rt-Dry-100oC|glove-box-Carry-out-from
+61,"label: Mix, type: procedure, <-->Add d-DMSO--Add d-DMSO--Disassemble cell--Disassemble cell--Filtration",Mix-|Add-d-DMSO-Disassemble-cell-Filtration
+62,"label: Mix, type: procedure, <-->Add d-DMSO--Add d-DMSO--Electrolyte--Electrolyte--Filtration",Mix-|Add-d-DMSO-Disassemble-cell-Filtration
+63,"label: Cool, type: procedure, temperature: r.t., <-->Ball mill--Heat--Heat",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+64,"label: Add donor, type: sample, <-->Fill sample--Set environment--Set environment",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+65,"label: Carry out from glove box, type: procedure, <-->Fill sample--Fill sample--Preheat",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+66,"label: Cool, type: procedure, temperature: r.t., <-->CT complex--Heat--Heat",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+67,"label: Select cell, type: procedure, <-->Ball mill--Ball mill--Dry",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+68,"label: Carry out from glove box, type: procedure, <-->Fill sample--Fill sample--Measure XRD",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+69,"label: Add salt, type: sample, <-->Fill sample--Set environment--Set environment",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+70,"label: Mix, type: procedure, <-->Add salt--Add salt--Ball mill--CT complex--CT complex",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+71,"label: Grind, type: procedure, protocol: grind slightly, <-->Cool--Cool--Weigh",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+72,"label: Cool, type: procedure, temperature: r.t., <-->Grind--Heat--Heat",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+73,"label: CT complex, type: sample, <-->Ball mill--Ball mill--Mix",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+74,"label: Mix, type: procedure, <-->Add acceptor--Add acceptor--Add donor--Add donor--Ball mill--Set environment--Set environment",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+75,"label: Cool, type: procedure, temperature: r.t., <-->Heat--Heat--Weigh",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+76,"label: Heat, type: procedure, temperature: 280 oC, time: 30 min, <-->Add acceptor--Add acceptor--Cool",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+77,"label: Grind, type: procedure, protocol: grind slightly, <-->Ball mill--Cool--Cool",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+78,"label: Add salt, type: sample, <-->Select cell--Set environment--Set environment",temperature-Cool-r.t.-sample-Add|Ball-mill-Heat-Set-environment
+79,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 30 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+80,"label: Carry out from glove box, type: procedure, <-->Leave--Leave--Measure EIS",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+81,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 20 min, <-->Cool--Cool--Electrolyte",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+82,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 30 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+83,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Cool--Cool--Electrolyte",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+84,"label: Petri dish, type: procedure, <-->Heat--Mix--Mix",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+85,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 60 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+86,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+87,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+88,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 5 min, <-->Mix--Mix--Petri dish",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+89,"label: Heat, type: procedure, temperature: 280 oC, time: 35 min, <-->Cool--Stirr--Stirr",Ball-mill-frequency-50Hz-30min|Mix-Petri-dish-Cool-Leave
+90,"label: Electrolyte, type: sample, <-->Mix--Set environment--Set environment",Ball-mill-frequency-50Hz-Weigh|CT-complex-Measure-particle-size
+91,"label: Weigh, type: procedure, <-->CT complex--Cool--Cool",Ball-mill-frequency-50Hz-Weigh|CT-complex-Measure-particle-size
+92,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Weigh|CT-complex-Measure-particle-size
+93,"label: Weigh, type: procedure, <-->Ball mill--Ball mill--Select cell",Ball-mill-frequency-50Hz-Weigh|CT-complex-Measure-particle-size
+94,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 30 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Weigh|CT-complex-Measure-particle-size
+95,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 90 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Weigh|CT-complex-Measure-particle-size
+96,"label: Measure particle size, type: procedure, <-->Wash salt--Wash salt",Ball-mill-frequency-50Hz-Weigh|CT-complex-Measure-particle-size
+97,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Weigh|CT-complex-Measure-particle-size
+98,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 5 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Weigh|CT-complex-Measure-particle-size
+99,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 1 min, <-->CT complex--CT complex--Measure particle size",Ball-mill-frequency-50Hz-Weigh|CT-complex-Measure-particle-size
+100,"label: Measure EIS, type: procedure, temperature: 70 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+101,"label: Refill acceptor, type: procedure, protocol: collect acceptor on aluminium foil and readd it to petri dish, <-->Heat--Heat--Heat",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+102,"label: Measure EIS, type: procedure, temperature: 60 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+103,"label: Measure EIS, type: procedure, temperature: 90 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+104,"label: Select cell, type: procedure, <-->Cool--Cool--Dry",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+105,"label: Measure EIS, type: procedure, temperature: 50 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+106,"label: Mix, type: procedure, <-->Add salt--Add salt--CT complex--CT complex--Petri dish",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+107,"label: Measure EIS, type: procedure, temperature: 80 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+108,"label: Start experiment, <-->Set environment",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+109,"label: Measure EIS, type: procedure, temperature: 25 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+110,"label: Carry out from glove box, type: procedure, <-->Disassemble cell--Leave--Leave",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+111,"label: Add acceptor, type: procedure, protocol: collect acceptors on aluminium foils and add to petri dish, <-->Heat--Heat--Heat",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+112,"label: Measure EIS, type: procedure, temperature: 40 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+113,"label: Disassemble cell, type: procedure, <-->Carry out from glove box--Carry out from glove box--SEM measurement",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+114,"label: Measure EIS, type: procedure, temperature: 153 oC, machine: AMF-20N, <-->Break vacuum pack--Break vacuum pack--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+115,"label: Mix, type: procedure, <-->Add salt--Add salt--Ball mill--Ball mill--Ball mill",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+116,"label: Heat, type: procedure, temperature: 100 oC, time: 4 hours, machine: AMF-20N, <-->Leave--Seal--Seal",temperature-machine-AMF-20N-Measure-EIS|Break-vacuum-pack-Disassemble-cell
+117,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+118,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 30 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+119,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 60 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+120,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 75 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+121,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Cool--Cool--Weigh",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+122,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Fill sample--Grind--Grind",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+123,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Cool--Cool--Dry",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+124,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 75 min, <-->Cool--Cool--Wash salt",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+125,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+126,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 20 min, <-->Cool--Cool--Fill sample",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+127,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 5 min, <-->Cool--Cool--Weigh",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+128,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 75 min, <-->Cool--Cool--Dry",Ball-mill-frequency-50Hz-40Hz|Cool-Fill-sample-Weigh-Grind
+129,"label: Add anode, type: procedure, <-->Add electrolyte--Add electrolyte--Fill and press",Add-Cool-anode-electrolyte-cathode|Add-electrolyte-Transport-to-glove
+130,"label: Cool, type: procedure, <-->Add cathode--Transport to glove box--Transport to glove box",Add-Cool-anode-electrolyte-cathode|Add-electrolyte-Transport-to-glove
+131,"label: Add electrolyte, type: procedure, <-->Add anode--Add cathode--Add cathode",Add-Cool-anode-electrolyte-cathode|Add-electrolyte-Transport-to-glove
+132,"label: Cool, type: procedure, <-->Add electrolyte--Transport to glove box--Transport to glove box",Add-Cool-anode-electrolyte-cathode|Add-electrolyte-Transport-to-glove
+133,"label: Add cathode, type: procedure, <-->Add electrolyte--Cool--Cool",Add-Cool-anode-electrolyte-cathode|Add-electrolyte-Transport-to-glove
+134,"label: Disassemble cell, type: procedure, <-->Leave--Leave--Mix",Fill-temperature-sample-fill-into|glove-box-Carry-out-from
+135,"label: Fill sample, type: procedure, protocol: fill into DSC pan, <-->Ball mill--Ball mill--Carry out from glove box",Fill-temperature-sample-fill-into|glove-box-Carry-out-from
+136,"label: Dry, type: procedure, temperature: 100 oC, time: 1 hour, <-->Transport to glove box--Weigh--Weigh",Fill-temperature-sample-fill-into|glove-box-Carry-out-from
+137,"label: Fill and press, type: procedure, <-->Add electrolyte--Add electrolyte--Carry out from glove box",Fill-temperature-sample-fill-into|glove-box-Carry-out-from
+138,"label: Dry, type: procedure, temperature: 100 oC, time: 1 hour, <-->Select cell--Select cell--Transport to glove box",Fill-temperature-sample-fill-into|glove-box-Carry-out-from
+139,"label: Fill sample, type: procedure, protocol: fill into XRD tube and seal, <-->Carry out from glove box--Motor--Motor",Fill-temperature-sample-fill-into|glove-box-Carry-out-from
+140,"label: Heat, type: procedure, temperature: 200 oC, time: 30 min, <-->Add acceptor--Petri dish--Petri dish",Fill-temperature-sample-fill-into|glove-box-Carry-out-from
+141,"label: Add salt, type: sample, <-->Mix",Weigh-Add-salt-sample-Measure|Ball-mill-Grind-Mix-Fill
+142,"label: Weigh, type: procedure, <-->Ball mill--Ball mill--Fill sample",Weigh-Add-salt-sample-Measure|Ball-mill-Grind-Mix-Fill
+143,"label: Weigh, type: procedure, <-->CT complex--Grind--Grind",Weigh-Add-salt-sample-Measure|Ball-mill-Grind-Mix-Fill
+144,"label: Measure particle size, type: procedure, <-->Ball mill--Ball mill",Weigh-Add-salt-sample-Measure|Ball-mill-Grind-Mix-Fill
+145,"label: Weigh, type: procedure, <-->Ball mill--Ball mill--Dry",Weigh-Add-salt-sample-Measure|Ball-mill-Grind-Mix-Fill
+146,"label: Heat, type: procedure, temperature: 235 oC, time: 5 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+147,"label: Heat, type: procedure, temperature: 180 oC, time: 60 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+148,"label: Heat, type: procedure, temperature: 200 oC, time: 45 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+149,"label: Heat, type: procedure, temperature: 300 oC, time: 30 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+150,"label: Heat, type: procedure, temperature: 200 oC, time: 30 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+151,"label: Heat, type: procedure, temperature: 200 oC, time: 20 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+152,"label: Heat, type: procedure, temperature: 150 oC, time: 20 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+153,"label: Heat, type: procedure, temperature: 250 oC, time: 30 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+154,"label: Heat, type: procedure, temperature: 250 oC, time: 15 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+155,"label: Heat, type: procedure, temperature: 200 oC, time: 65 min, <-->Petri dish--Petri dish--Stirr",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+156,"label: Heat, type: procedure, temperature: 300 oC, time: 5 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+157,"label: Heat, type: procedure, temperature: 210 oC, time: 30 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+158,"label: Heat, type: procedure, temperature: 200 oC, time: 60 min, <-->Petri dish--Petri dish--Stirr",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+159,"label: Heat, type: procedure, temperature: 150 oC, time: 50 min, <-->Petri dish--Petri dish--Stirr",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+160,"label: Heat, type: procedure, temperature: 120 oC, time: 150 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+161,"label: Heat, type: procedure, temperature: 150 oC, time: 30 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+162,"label: Heat, type: procedure, temperature: 210 oC, time: 20 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+163,"label: Heat, type: procedure, temperature: 200 oC, time: 40 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+164,"label: Heat, type: procedure, temperature: 180 oC, time: 30 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+165,"label: Heat, type: procedure, temperature: 120 oC, time: 15 min, <-->Cool--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+166,"label: Heat, type: procedure, temperature: 200 oC, time: 15 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+167,"label: Heat, type: procedure, temperature: 200 oC, time: 90 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+168,"label: Heat, type: procedure, temperature: 200 oC, time: 60 min, <-->Heat--Petri dish--Petri dish",Heat-temperature-200oC-30min-60min|Petri-dish-Heat-Cool-Stirr
+169,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 15 min, <-->Ball mill--Ball mill--Petri dish",Ball-mill-frequency-15min-40Hz|Ball-mill-Petri-dish-
+170,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Ball mill--Ball mill--Ball mill",Ball-mill-frequency-15min-40Hz|Ball-mill-Petri-dish-
+171,"label: Measure EIS, type: procedure, <-->Disassemble cell--Fabricate cell--Fabricate cell",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+172,"label: Measure EIS, type: procedure, <-->Disassemble cell--Leave--Leave",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+173,"label: Seal, type: procedure, protocol: vacuum pack using KitchenBoss G210, <-->Carry out from glove box--Carry out from glove box--Leave",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+174,"label: Stirr, type: procedure, protocol: mix with spatula, <-->Heat--Heat--Heat",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+175,"label: Break seal, type: procedure, <-->Carry out from glove box--Carry out from glove box--Measure water by NMR",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+176,"label: Select cell, type: procedure, <-->Add salt--Add salt--Dry",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+177,"label: Seal, type: procedure, protocol: vacuum pack using KitchenBoss G210, <-->Carry out from glove box--Seal--Seal",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+178,"label: Fill and press, type: procedure, <-->Add electrolyte--Add electrolyte--Seal",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+179,"label: Seal, type: procedure, protocol: wrap tightening part with PTFE tape three times , <-->Fill and press--Fill and press--Leave",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+180,"label: Measure EIS, type: procedure, <-->Break vacuum pack--Break vacuum pack--Disassemble cell",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+181,"label: Seal, type: procedure, protocol: vacuum pack using KitchenBoss G210, <-->Carry out from glove box--Carry out from glove box--Heat",Seal-Measure-EIS-vacuum-pack|Carry-out-from-glove-box
+182,"label: Set environment, type: procedure, <-->Mix--Start experiment--Start experiment",Set-environment-|Start-experiment-Set-environment-Mix
+183,"label: Set environment, type: procedure, <-->Add salt--Set environment--Set environment",Set-environment-|Start-experiment-Set-environment-Mix
+184,"label: Add electrolyte, type: procedure, <-->Cool--Cool--Fill and press",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+185,"label: Disassemble cell, type: procedure, <-->Carry out from glove box--Carry out from glove box--Mix",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+186,"label: Seal, type: procedure, protocol: wrap tightening part with PTFE tape three times , <-->Fill and press--Fill and press--Seal",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+187,"label: Fill sample, type: procedure, protocol: fill into XRD tube and seal, <-->Ball mill--Ball mill--Carry out from glove box",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+188,"label: Fill sample, type: procedure, protocol: fill into NMR tube and seal, <-->Add salt--Add salt--Carry out from glove box",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+189,"label: Transport to glove box, type: procedure, <-->Cool--Dry--Dry",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+190,"label: Measure EIS, type: procedure, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+191,"label: Fill sample, type: procedure, protocol: fill into XRD tube and seal, <-->Add salt--Add salt--Carry out from glove box",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+192,"label: Measure DSC, type: procedure, <-->Carry out from glove box--Carry out from glove box",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+193,"label: Seal, type: procedure, protocol: wrap tightening part with PTFE tape three times , <-->Fill and press--Fill and press--Heat",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+194,"label: Fill sample, type: procedure, protocol: fill into DSC pan, <-->Add salt--Add salt--Carry out from glove box",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+195,"label: Break vacuum pack, type: procedure, <-->Leave--Leave--Measure EIS",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+196,"label: Fill sample, type: procedure, protocol: fill into XRD tube and seal, <-->Carry out from glove box--Weigh--Weigh",Fill-sample-fill-into-tube|Carry-out-from-glove-box
+197,"label: Set environment, type: procedure, <-->Add donor--Set environment--Set environment",Set-environment-Weigh-|Set-environment-Cool-Add-donor
+198,"label: Weigh, type: procedure, <-->Cool--Cool--Fill sample",Set-environment-Weigh-|Set-environment-Cool-Add-donor
+199,"label: Set environment, type: procedure, <-->Mix--Set environment--Set environment",Set-environment-Weigh-|Set-environment-Cool-Add-donor
+200,"label: Grind, type: procedure, protocol: motor, time: 3 min, <-->Ball mill--CT complex--CT complex",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+201,"label: Cool, type: procedure, temperature: r.t., <-->Heat--Heat--Select cell",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+202,"label: Add acceptor, type: sample, <-->Mix",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+203,"label: Electrolyte, type: sample, <-->Ball mill--Ball mill--Select cell",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+204,"label: Select cell, type: procedure, <-->Ball mill--Ball mill--Fabricate cell",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+205,"label: Carry out from glove box, type: procedure, <-->Measure EIS--Seal--Seal",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+206,"label: Carry out from glove box, type: procedure, <-->Fill sample--Fill sample--Measure DSC",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+207,"label: Carry out from glove box, type: procedure, <-->Fill and press--Fill and press--Leave",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+208,"label: Carry out from glove box, type: procedure, <-->Measure Battery--Seal--Seal",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+209,"label: Motor, type: procedure, protocol: grind, time: 10 min, <-->Cool--Cool--Fill sample",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+210,"label: Fill sample, type: procedure, protocol: fill into NMR tube and seal, <-->CT complex--CT complex--Carry out from glove box",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+211,"label: Wash salt, type: procedure, protocol: by water, <-->Ball mill--Ball mill--Measure particle size",Carry-out-from-glove-box|Ball-mill-Fill-CT-complex
+212,"label: Measure EIS, type: procedure, temperature: 0 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+213,"label: Measure EIS, type: procedure, temperature: 70 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+214,"label: Measure EIS, type: procedure, temperature: 60 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+215,"label: Measure EIS, type: procedure, temperature: 80 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+216,"label: Measure EIS, type: procedure, temperature: 100 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+217,"label: Measure EIS, type: procedure, temperature: 50 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+218,"label: Heat, type: procedure, temperature: 280 oC, time: 30 min, <-->Cool--Stirr--Stirr",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+219,"label: Measure EIS, type: procedure, temperature: 110 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+220,"label: Measure EIS, type: procedure, temperature: 25 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+221,"label: Heat, type: procedure, temperature: 150 oC, time: 30 min, <-->Cool--Stirr--Stirr",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+222,"label: Measure EIS, type: procedure, temperature: 120 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+223,"label: Heat, type: procedure, temperature: 250 oC, time: 30 min, <-->Cool--Stirr--Stirr",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+224,"label: Heat, type: procedure, temperature: 100 oC, time: 4 hours, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Leave",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+225,"label: Measure EIS, type: procedure, temperature: 90 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+226,"label: Measure Battery, type: procedure, temperature: 50 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+227,"label: Measure EIS, type: procedure, temperature: 40 oC, machine: AMF-20N, <-->Carry out from glove box--Carry out from glove box--Disassemble cell",temperature-machine-AMF-20N-Measure-EIS|Carry-out-from-glove-box
+228,"label: Measure NMR, type: procedure, <-->Preheat--Preheat",Measure-NMR-|Preheat-
+229,"label: Carry out from glove box, type: procedure, <-->Break seal--Seal--Seal",Carry-out-from-glove-box|Seal-Carry-out-from-glove
+230,"label: Seal, type: procedure, <-->Carry out from glove box--Fill sample into NMR tube--Fill sample into NMR tube",Carry-out-from-glove-box|Seal-Carry-out-from-glove
+231,"label: Preheat, type: procedure, <-->Carry out from glove box--Carry out from glove box--Measure NMR",Carry-out-from-glove-box|Seal-Carry-out-from-glove
+232,"label: Carry out from glove box, type: procedure, <-->Seal--Seal--Seal",Carry-out-from-glove-box|Seal-Carry-out-from-glove
+233,"label: Measure thickness of electrolyte, type: procedure, <-->Disassemble cell--Disassemble cell",Carry-out-from-glove-box|Seal-Carry-out-from-glove
+234,"label: Add donor, type: sample, <-->Mix",Carry-out-from-glove-box|Seal-Carry-out-from-glove
+235,"label: Carry out from glove box, type: procedure, <-->Fill sample--Fill sample--Measure NMR",Carry-out-from-glove-box|Seal-Carry-out-from-glove
+236,"label: Disassemble cell, type: procedure, <-->Measure Battery--Measure Battery--Measure thickness of electrolyte",Carry-out-from-glove-box|Seal-Carry-out-from-glove
+237,"label: Measure NMR, type: procedure, <-->Carry out from glove box--Carry out from glove box",Carry-out-from-glove-box|Seal-Carry-out-from-glove
+238,"label: Carry out from glove box, type: procedure, <-->Heat--Seal--Seal",Carry-out-from-glove-box|Seal-Carry-out-from-glove
+239,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 30 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+240,"label: SEM measurement, type: procedure, <-->Disassemble cell--Disassemble cell",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+241,"label: Fill sample into NMR tube, type: procedure, <-->Filtration--Filtration--Seal",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+242,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+243,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 20 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+244,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 0 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+245,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 120 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+246,"label: Measure water by NMR, type: procedure, <-->Break seal--Break seal",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+247,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+248,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Grind--Grind--Wash salt",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+249,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Ball mill--Cool--Cool",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+250,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 90 min, <-->Grind--Grind--Measure particle size",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+251,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--Cool--Cool",Ball-mill-frequency-50Hz-NMR|Grind-Measure-particle-size-Cool
+252,"label: Measure XRD, type: procedure, temperature: 80 oC, <-->Carry out from glove box--Carry out from glove box",temperature-Measure-XRD-cell-80oC|Carry-out-from-glove-box
+253,"label: Measure XRD, type: procedure, temperature: 50 oC, <-->Carry out from glove box--Carry out from glove box",temperature-Measure-XRD-cell-80oC|Carry-out-from-glove-box
+254,"label: Measure XRD, type: procedure, temperature: 100 oC, <-->Carry out from glove box--Carry out from glove box",temperature-Measure-XRD-cell-80oC|Carry-out-from-glove-box
+255,"label: Disassemble cell, type: procedure, <-->Measure EIS--Measure EIS--Measure thickness of electrolyte",temperature-Measure-XRD-cell-80oC|Carry-out-from-glove-box
+256,"label: Measure XRD, type: procedure, temperature: 25 oC, <-->Carry out from glove box--Carry out from glove box",temperature-Measure-XRD-cell-80oC|Carry-out-from-glove-box
+257,"label: Leave, type: procedure, temperature: rt, time: 120 hours, <-->Carry out from glove box--Carry out from glove box--Measure EIS",temperature-Measure-XRD-cell-80oC|Carry-out-from-glove-box
+258,"label: Measure XRD, type: procedure, temperature: 120 oC, <-->Carry out from glove box--Carry out from glove box",temperature-Measure-XRD-cell-80oC|Carry-out-from-glove-box
+259,"label: Select cell, type: procedure, <-->Dry--Electrolyte--Electrolyte",temperature-Measure-XRD-cell-80oC|Carry-out-from-glove-box
+260,"label: Set environment, type: procedure, <-->Electrolyte--Start experiment--Start experiment",Ball-mill-frequency-50Hz-Set|Ball-mill-Start-experiment-Mix
+261,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--Ball mill--Wash salt",Ball-mill-frequency-50Hz-Set|Ball-mill-Start-experiment-Mix
+262,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 15 min, <-->Ball mill--Mix--Mix",Ball-mill-frequency-50Hz-Set|Ball-mill-Start-experiment-Mix
+263,"label: Set environment, type: procedure, <-->Set environment--Start experiment--Start experiment",Ball-mill-frequency-50Hz-Set|Ball-mill-Start-experiment-Mix
+264,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--Ball mill--Mix",Ball-mill-frequency-50Hz-Set|Ball-mill-Start-experiment-Mix
+265,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Ball mill--Ball mill--Wash salt",Ball-mill-frequency-50Hz-Set|Ball-mill-Start-experiment-Mix
+266,"label: Fabricate cell, type: procedure, <-->Measure EIS--Select cell--Select cell",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+267,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 60 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+268,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Grind--Grind--Select cell",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+269,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->CT complex--CT complex--Mix",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+270,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 20 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+271,"label: Petri dish, type: procedure, <-->Ball mill--Ball mill--Heat",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+272,"label: Mix, type: procedure, <-->Add acceptor--Add acceptor--Add donor--Add donor--Petri dish--Set environment--Set environment",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+273,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+274,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->CT complex--CT complex--Mix",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+275,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 75 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+276,"label: Filtration, type: procedure, <-->Fill sample into NMR tube--Mix--Mix",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+277,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 5 min, <-->CT complex--CT complex--Mix",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+278,"label: Heat, type: procedure, temperature: 280 oC, time: 30 min, <-->Cool--Refill acceptor--Refill acceptor",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+279,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+280,"label: Heat, type: procedure, temperature: 160 oC, time: 30 min, <-->Cool",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+281,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+282,"label: Ball mill, type: procedure, frequency: 40 Hz, time: 30 min, <-->Cool--Cool--Select cell",Ball-mill-frequency-50Hz-60min|Cool-Select-cell-CT-complex
+283,"label: CT complex, type: sample, <-->Grind--Weigh--Weigh",CT-complex-sample-|Weigh-Grind-Mix-Ball-mill
+284,"label: CT complex, type: sample, <-->Mix--Weigh--Weigh",CT-complex-sample-|Weigh-Grind-Mix-Ball-mill
+285,"label: CT complex, type: sample, <-->Ball mill--Weigh--Weigh",CT-complex-sample-|Weigh-Grind-Mix-Ball-mill
+286,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->CT complex--Cool--Cool",Fill-sample-fill-into-Ball|Cool-Carry-out-from-glove
+287,"label: Leave, type: procedure, temperature: rt, time: 20 hours, <-->Measure EIS--Seal--Seal",Fill-sample-fill-into-Ball|Cool-Carry-out-from-glove
+288,"label: Fill sample, type: procedure, protocol: fill into DSC pan, <-->Add donor--Add donor--Carry out from glove box",Fill-sample-fill-into-Ball|Cool-Carry-out-from-glove
+289,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 20 min, <-->CT complex--Cool--Cool",Fill-sample-fill-into-Ball|Cool-Carry-out-from-glove
+290,"label: Fill sample, type: procedure, protocol: fill into NMR tube and seal, <-->Carry out from glove box--Cool--Cool",Fill-sample-fill-into-Ball|Cool-Carry-out-from-glove
+291,"label: Fill sample, type: procedure, protocol: fill into NMR tube and seal, <-->Ball mill--Ball mill--Carry out from glove box",Fill-sample-fill-into-Ball|Cool-Carry-out-from-glove
+292,"label: Fill sample, type: procedure, protocol: fill into DSC pan, <-->Carry out from glove box--Weigh--Weigh",Fill-sample-fill-into-Ball|Cool-Carry-out-from-glove
+293,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--Ball mill--Fill sample",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-Fill
+294,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 60 min, <-->Ball mill--Ball mill--Select cell",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-Fill
+295,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Ball mill--Ball mill--Fill sample",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-Fill
+296,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--Ball mill--Select cell",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-Fill
+297,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 10 min, <-->Ball mill--CT complex--CT complex",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-Fill
+298,"label: Ball mill, type: procedure, frequency: 50 Hz, time: 15 min, <-->Ball mill--Ball mill--Select cell",Ball-mill-frequency-50Hz-10min|Ball-mill-Select-cell-Fill
