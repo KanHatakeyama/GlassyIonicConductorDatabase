@@ -42,7 +42,7 @@
 
 # Related paper
 
-- TBD
+- [ChemRXiv](https://chemrxiv.org/engage/chemrxiv/article-details/61ee04a671868d22fdbc8856)
 
 # History
 
