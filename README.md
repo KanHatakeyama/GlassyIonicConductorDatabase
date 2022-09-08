@@ -41,13 +41,13 @@
   - https://github.com/KanHatakeyama/FlowMater2
 
 # Related paper
-
+- [npj Compt Mater 2022](https://www.nature.com/articles/s41524-022-00853-0)
 - [ChemRXiv](https://chemrxiv.org/engage/chemrxiv/article-details/61ee04a671868d22fdbc8856)
 
 # History
 
-- version 2022.1.**: initial version
-
+- version 2022.1: initial version
+- [GUI server version is under development](https://github.com/KanHatakeyama/flowmater3.1)
 # Author
 
 - Kan Hatakeyama-Sato
